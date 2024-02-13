@@ -13,7 +13,7 @@ PILLARS OF OOP USED:
 3.Encapsulation
 
 FEATURES OF OUR PROGRAM:
-1. Our arcade system has visually stunning graphics that encompass a rich array of audio 
+1. The SDL2 library has been utilized to acheive visually stunning graphics that encompass a rich array of audio 
 elements, intricate images, and various font styles.
 2. Our program uses filing to display “How to Play”/ Instructions for each game.
 3. Our program enables seamless transitions between games, providing users the freedom to 
